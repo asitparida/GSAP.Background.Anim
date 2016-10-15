@@ -67,7 +67,7 @@ html, body {
                 }
             }
 
-            @else{
+            @else {
                 path {
                     stroke: lighten($defcolor, 50);
                 }
@@ -613,8 +613,197 @@ body {
             overflow: hidden;
         }
 
+        &.dont-load-color {
+
+            #foto {
+                .cls-1 {
+                    fill: #bde;
+                }
+
+                .cls-2 {
+                    fill: #a2bb3d;
+                }
+
+                .cls-3 {
+                    fill: #91b4c7;
+                }
+
+                .cls-4 {
+                    fill: #87a6bb;
+                }
+
+                .cls-5 {
+                    fill: #d9ecf8;
+                }
+
+                .cls-6 {
+                    fill: #fafcfd;
+                }
+
+                .cls-7 {
+                    fill: #fefefe;
+                }
+
+                .cls-8 {
+                    fill: #e6c549;
+                }
+
+                .cls-9 {
+                    fill: #fdfbf3;
+                }
+
+                .cls-10 {
+                    fill: #bae92c;
+                }
+
+                .cls-11 {
+                    fill: #6bb253;
+                }
+
+                .cls-12 {
+                    fill: #d2d6ce;
+                }
+
+                .cls-13 {
+                    fill: #d1d4cc;
+                }
+
+                .cls-14 {
+                    fill: #d1d5cc;
+                }
+
+                .cls-15 {
+                    fill: #834b13;
+                }
+
+                .cls-16 {
+                    fill: #834c14;
+                }
+
+                .cls-17 {
+                    fill: #5e9b51;
+                }
+
+                .cls-18 {
+                    fill: #324b27;
+                }
+
+                .cls-19 {
+                    fill: #243d3c;
+                }
+
+                .cls-20 {
+                    fill: #5e9a51;
+                }
+
+                .cls-21 {
+                    fill: #5e9b50;
+                }
+
+                .cls-22 {
+                    fill: #5e9a4f;
+                }
+
+                .cls-23 {
+                    fill: #5b4a2a;
+                }
+
+                .cls-24 {
+                    fill: #a2bb41;
+                }
+
+                .cls-25 {
+                    fill: #887251;
+                }
+
+                .cls-26 {
+                    fill: #826f4f;
+                }
+
+                .cls-27 {
+                    fill: #86764f;
+                }
+
+                .cls-28 {
+                    fill: #88764f;
+                }
+
+                .cls-29 {
+                    fill: #82a0b4;
+                }
+
+                .cls-30 {
+                    fill: #5e9c50;
+                }
+
+                .cls-31 {
+                    fill: #334c27;
+                }
+
+                .cls-32 {
+                    fill: #877052;
+                }
+
+                .cls-33 {
+                    fill: #5e9b4f;
+                }
+
+                .cls-34 {
+                    fill: #344d27;
+                }
+
+                .cls-35 {
+                    fill: #897450;
+                }
+
+                .cls-36 {
+                    fill: #897a4e;
+                }
+
+                .cls-37 {
+                    fill: #617039;
+                }
+
+                .cls-38 {
+                    fill: #253f3d;
+                }
+
+                .cls-39 {
+                    fill: #2e4745;
+                }
+
+                .cls-40 {
+                    fill: #2e4645;
+                }
+
+                .cls-41 {
+                    fill: #3f4436;
+                }
+
+                .cls-42 {
+                    fill: #926b41;
+                }
+
+                .cls-43 {
+                    fill: #394236;
+                }
+
+                .cls-44 {
+                    fill: #834d17;
+                }
+
+                .cls-45 {
+                    fill: #334036;
+                }
+
+                .cls-46 {
+                    fill: #2a3d38;
+                }
+            }
+        }
+
         svg {
-            opacity: 0;            
+            opacity: 0;
             z-index: 2;
             position: relative;
         }
@@ -627,7 +816,7 @@ body {
 
             path {
                 stroke-width: 1;
-            }           
+            }
         }
 
         .btnHolder {

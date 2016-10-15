@@ -3,8 +3,7 @@
     var self = this;
     self.showColorPicker = false;
     self.settingsPaneColorsInitalized = false;
-    self.colorModes = [
-        //{ id: _.uniqueId('col'), colorId: "turquoise", name: "turquoise", code: "#1abc9c" },        
+    self.colorModes = [ 
         { id: _.uniqueId('col'), colorId: "emerland", name: "emerland", code: "#2ecc71" },
         { id: _.uniqueId('col'), colorId: "darkblack", name: "darkblack", code: "#101010" },
         { id: _.uniqueId('col'), colorId: "peterRiver", name: "peter river", code: "#3498db" },

@@ -2695,6 +2695,98 @@ body {
     overflow: hidden; }
     body .content.not-loaded {
       overflow: hidden; }
+    body .content.dont-load-color #foto .cls-1 {
+      fill: #bde; }
+    body .content.dont-load-color #foto .cls-2 {
+      fill: #a2bb3d; }
+    body .content.dont-load-color #foto .cls-3 {
+      fill: #91b4c7; }
+    body .content.dont-load-color #foto .cls-4 {
+      fill: #87a6bb; }
+    body .content.dont-load-color #foto .cls-5 {
+      fill: #d9ecf8; }
+    body .content.dont-load-color #foto .cls-6 {
+      fill: #fafcfd; }
+    body .content.dont-load-color #foto .cls-7 {
+      fill: #fefefe; }
+    body .content.dont-load-color #foto .cls-8 {
+      fill: #e6c549; }
+    body .content.dont-load-color #foto .cls-9 {
+      fill: #fdfbf3; }
+    body .content.dont-load-color #foto .cls-10 {
+      fill: #bae92c; }
+    body .content.dont-load-color #foto .cls-11 {
+      fill: #6bb253; }
+    body .content.dont-load-color #foto .cls-12 {
+      fill: #d2d6ce; }
+    body .content.dont-load-color #foto .cls-13 {
+      fill: #d1d4cc; }
+    body .content.dont-load-color #foto .cls-14 {
+      fill: #d1d5cc; }
+    body .content.dont-load-color #foto .cls-15 {
+      fill: #834b13; }
+    body .content.dont-load-color #foto .cls-16 {
+      fill: #834c14; }
+    body .content.dont-load-color #foto .cls-17 {
+      fill: #5e9b51; }
+    body .content.dont-load-color #foto .cls-18 {
+      fill: #324b27; }
+    body .content.dont-load-color #foto .cls-19 {
+      fill: #243d3c; }
+    body .content.dont-load-color #foto .cls-20 {
+      fill: #5e9a51; }
+    body .content.dont-load-color #foto .cls-21 {
+      fill: #5e9b50; }
+    body .content.dont-load-color #foto .cls-22 {
+      fill: #5e9a4f; }
+    body .content.dont-load-color #foto .cls-23 {
+      fill: #5b4a2a; }
+    body .content.dont-load-color #foto .cls-24 {
+      fill: #a2bb41; }
+    body .content.dont-load-color #foto .cls-25 {
+      fill: #887251; }
+    body .content.dont-load-color #foto .cls-26 {
+      fill: #826f4f; }
+    body .content.dont-load-color #foto .cls-27 {
+      fill: #86764f; }
+    body .content.dont-load-color #foto .cls-28 {
+      fill: #88764f; }
+    body .content.dont-load-color #foto .cls-29 {
+      fill: #82a0b4; }
+    body .content.dont-load-color #foto .cls-30 {
+      fill: #5e9c50; }
+    body .content.dont-load-color #foto .cls-31 {
+      fill: #334c27; }
+    body .content.dont-load-color #foto .cls-32 {
+      fill: #877052; }
+    body .content.dont-load-color #foto .cls-33 {
+      fill: #5e9b4f; }
+    body .content.dont-load-color #foto .cls-34 {
+      fill: #344d27; }
+    body .content.dont-load-color #foto .cls-35 {
+      fill: #897450; }
+    body .content.dont-load-color #foto .cls-36 {
+      fill: #897a4e; }
+    body .content.dont-load-color #foto .cls-37 {
+      fill: #617039; }
+    body .content.dont-load-color #foto .cls-38 {
+      fill: #253f3d; }
+    body .content.dont-load-color #foto .cls-39 {
+      fill: #2e4745; }
+    body .content.dont-load-color #foto .cls-40 {
+      fill: #2e4645; }
+    body .content.dont-load-color #foto .cls-41 {
+      fill: #3f4436; }
+    body .content.dont-load-color #foto .cls-42 {
+      fill: #926b41; }
+    body .content.dont-load-color #foto .cls-43 {
+      fill: #394236; }
+    body .content.dont-load-color #foto .cls-44 {
+      fill: #834d17; }
+    body .content.dont-load-color #foto .cls-45 {
+      fill: #334036; }
+    body .content.dont-load-color #foto .cls-46 {
+      fill: #2a3d38; }
     body .content svg {
       opacity: 0;
       z-index: 2;
